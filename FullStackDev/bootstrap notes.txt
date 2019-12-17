@@ -1,0 +1,21 @@
+Grid Format:-
+
+Row -- 12 Columns
+
+.container -- .row --  12 Columns
+4 4 4
+4 8
+8 4
+2 2 4 2 2
+
+.col-xs-
+.col-sm-
+.col-md-
+.col-lg-
+
+Responsive
+
+
+
+
+

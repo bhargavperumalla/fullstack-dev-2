@@ -1,0 +1,10 @@
+.a1{
+	width:100%;
+	background-image:url('2.png');
+}
+.a2{
+	color:green;
+	border:5px solid red;
+	margin-left:150px;
+	padding-left:350px;
+}

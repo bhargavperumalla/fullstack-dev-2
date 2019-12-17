@@ -1,0 +1,19 @@
+.a1{
+	background-color:#268020;
+}
+.a2{
+	background-image:url('2.jpg');
+	background-repeat:no-repeat;
+	background-position:right center;
+	background-attachment:fixed;
+}
+.a3{
+	border-style:solid;
+	border-color:red;
+	border-radius: 25px;
+	margin-left:50px;
+	margin-right:100px;
+	margin-top:25px;
+	margin-bottom:0px;
+	padding:50px;
+}

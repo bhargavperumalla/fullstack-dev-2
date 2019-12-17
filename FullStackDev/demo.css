@@ -1,0 +1,14 @@
+.a{
+background:url("");
+background-size: cover;
+}
+ul{
+    list-style-type: none;
+    background: #f1f1f1;
+    width: 200px;
+ }
+li{
+    display: block;
+    margin: 5px;
+    text-decoration: none;
+}
